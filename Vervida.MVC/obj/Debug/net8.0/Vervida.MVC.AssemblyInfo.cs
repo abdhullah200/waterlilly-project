@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vervida.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad826f3b9b9e71feff4f74743908a41c63125dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e643c582e1c8dbfc89ff8fa8947756e01c0bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vervida.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vervida.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
