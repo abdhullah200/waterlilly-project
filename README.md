@@ -1,15 +1,11 @@
 # Web Developer Assessment – Product Management Page
 
-Welcome! This project demonstrates your skills as a front-end developer working with ASP.NET MVC, jQuery, and React. The goal is to build a modern, responsive Product Management Page with dynamic features and clean code.
-
----
-
 ## Project Structure
 
 - **Vervida.MVC/**  
-  ASP.NET MVC project (core implementation with Razor Pages and jQuery)
+  ASP.NET MVC project
 - **Vervida.MVC/vervida-react/**  
-  React app (bonus implementation)
+  React app 
 
 ---
 
