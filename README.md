@@ -89,26 +89,14 @@ Welcome! This project demonstrates your skills as a front-end developer working 
 
 ---
 
-## Deliverables
 
-1. **ASP.NET MVC Project:**  
-   Complete source code (HTML, CSS, JS, Razor, Controllers, etc.)
+**Screenshots**
+1.
+<img width="1359" height="606" alt="image" src="https://github.com/user-attachments/assets/d7486e4f-3bb5-49cb-bc6d-6dde633ddacd" />
 
-2. **React Project (Bonus):**  
-   Separate folder with React app and README
+2.
+<img width="1362" height="605" alt="image" src="https://github.com/user-attachments/assets/90b2ab9a-e5d5-4f6e-9a5a-5ada6afa7270" />
 
-3. **Documentation:**  
-   This README explains setup, approach, and features
+3.
+<img width="1358" height="609" alt="image" src="https://github.com/user-attachments/assets/08fa891d-156f-4f43-b78e-554fa55ad2fb" />
 
----
-
-## Notes
-
-- Complete the assessment in 3-4 days.
-- Follow clean coding principles and document your code.
-- Use creativity and best practices for web development.
-- If you have questions, communicate early.
-
----
-
-**Good luck! We look forward to seeing your solution.**
